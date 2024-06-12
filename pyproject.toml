@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "mybootstrap_core_itskovichanton"
+name = "paassdk"
 version = "1.0.0"
 authors = [
     { name = "Anton Itskovich", email = "itskovichae@gmail.com" },
